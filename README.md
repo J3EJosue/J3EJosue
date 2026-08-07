@@ -15,14 +15,6 @@ Desarrollador enfocado en **frontend y producto**, construyo aplicaciones web de
 Puntos, líneas, cuadrícula, isométrico, caligrafía y pentagrama, con vista previa en vivo y exportación a PDF vectorial. Pensado para estudiantes universitarios en Guatemala.
 🔗 [gridj3.vercel.app](https://gridj3.vercel.app) · `Astro` `TypeScript`
 
-### [Medicina (PharmaSearch GT)](https://github.com/J3EJosue/Medicina) — Comparador de precios de medicamentos
-Aplicación web para comparar precios de medicamentos en las principales farmacias de Guatemala.
-`Astro` `TypeScript` `Tailwind CSS`
-
-### [Clasificador de Cuentas Contables con IA](https://github.com/J3EJosue/Clasificador-de-cuentas-J3e)
-Modelo de IA que clasifica cuentas contables, indicando naturaleza, libros contables y descripción detallada.
-`Python` `Flask`
-
 ## 🧰 Stack
 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
