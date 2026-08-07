@@ -7,6 +7,7 @@ Desarrollador enfocado en **frontend y producto**, construyo aplicaciones web de
 - 🌱 Explorando integración de IA en productos web
 - 💞️ Abierto a colaborar en proyectos de desarrollo web y diseño de producto
 - 📫 Contacto: **josuemanuelcruzzz@gmail.com**
+- 📷 Instagram: [@j3ejosue](https://www.instagram.com/j3ejosue/)
 
 ## 🚀 Proyectos destacados
 
@@ -29,8 +30,3 @@ Modelo de IA que clasifica cuentas contables, indicando naturaleza, libros conta
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## 📊 Estadísticas
-
-![Estadísticas de GitHub de J3EJosue](https://github-readme-stats.vercel.app/api?username=J3EJosue&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=J3EJosue&layout=compact&hide_border=true)
