@@ -1,15 +1,36 @@
-# ¡Hola! 👋 Soy Josué Cruz (@J3EJosue)
+# ¡Hola! 👋 Soy Josué Cruz ([@J3EJosue](https://github.com/J3EJosue))
 
-¡Bienvenido a mi perfil de GitHub! Soy un joven apasionado por la tecnología y el diseño. Aquí encontrarás una mezcla de proyectos personales, contribuciones a proyectos de código abierto y exploraciones en diferentes áreas de la programación y el diseño.
+Desarrollador enfocado en **frontend y producto**, construyo aplicaciones web desde la idea hasta el despliegue. Me gusta llevar proyectos completos: interfaz, lógica y una experiencia de usuario cuidada.
 
-## Acerca de mí
+- 🛠️ Trabajo principalmente con **Astro.js, TypeScript, React y Tailwind CSS**
+- 🚀 Construyo herramientas prácticas que resuelven problemas reales (generadores, comparadores, clasificadores)
+- 🌱 Explorando integración de IA en productos web
+- 💞️ Abierto a colaborar en proyectos de desarrollo web y diseño de producto
+- 📫 Contacto: **josuemanuelcruzzz@gmail.com**
 
-- 👀 Estoy interesado en tecnología, diseño gráfico, desarrollo de software
-- 🌱 Actualmente estoy aprendiendo sobre desarrollo web, diseño de interfaces.
-- 💞️ Estoy buscando colaborar en proyectos que me permitan aprender y crecer como desarrollador y diseñador.
-- 📫 Puedes contactarme a través de mi correo electrónico: josuemanuelcruzzz@gmail.com
+## 🚀 Proyectos destacados
 
-<!---
-J3EJosue/J3EJosue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### [gridj3](https://github.com/J3EJosue/gridj3) — Generador de hojas de cuaderno imprimibles
+Puntos, líneas, cuadrícula, isométrico, caligrafía y pentagrama, con vista previa en vivo y exportación a PDF vectorial. Pensado para estudiantes universitarios en Guatemala.
+🔗 [gridj3.vercel.app](https://gridj3.vercel.app) · `Astro` `TypeScript`
+
+### [Medicina (PharmaSearch GT)](https://github.com/J3EJosue/Medicina) — Comparador de precios de medicamentos
+Aplicación web para comparar precios de medicamentos en las principales farmacias de Guatemala.
+`Astro` `TypeScript` `Tailwind CSS`
+
+### [Clasificador de Cuentas Contables con IA](https://github.com/J3EJosue/Clasificador-de-cuentas-J3e)
+Modelo de IA que clasifica cuentas contables, indicando naturaleza, libros contables y descripción detallada.
+`Python` `Flask`
+
+## 🧰 Stack
+
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## 📊 Estadísticas
+
+![Estadísticas de GitHub de J3EJosue](https://github-readme-stats.vercel.app/api?username=J3EJosue&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=J3EJosue&layout=compact&hide_border=true)
